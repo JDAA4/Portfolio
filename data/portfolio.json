@@ -1,0 +1,87 @@
+{
+  "name": "David",
+  "headerTaglineOne": "Hello there!",
+  "headerTaglineTwo": "I'm David Avalos - curious",
+  "headerTaglineThree": "Software Engineering Student",
+  "headerTaglineFour": " based in Manzanillo, Colima",
+  "showCursor": false,
+  "showBlog": false,
+  "darkMode": true,
+  "showResume": true,
+  "socials": [
+    { "id": "1", "title": "Github", "link": "https://github.com/JDAA4" },
+    {
+      "id": "2",
+      "title": "LinkedIn",
+      "link": "https://www.linkedin.com/in/jose-david-aguilar-avalos-626a4b2b2/"
+    },
+    { "id": "5", "title": "Email", "link": "mailto:jaguilar51@ucol.mx" }
+  ],
+  "projects": [
+    {
+      "id": "1",
+      "title": "Spike: Veterinary Services and Pet Care",
+      "description": " Mobile application that acts as a comprehensive manager for veterinary clinics and care services of pets",
+      "imageSrc": "/images/spike.avif",
+      "url": "https://github.com/Paco-Taco/SpikeNative.git"
+    },
+    {
+      "id": "2",
+      "title": "Share-Sphere: Web Forum",
+      "description": " Web-based forum designed to foster an enriching exchange of information and perspectives within virtual communities.",
+      "imageSrc": "/images/ss.avif",
+      "url": "https://github.com/JDAA4/Foro-Web-Equipo-1"
+    },
+    {
+      "id": "3",
+      "title": "JEMAS - Jewelry Management System",
+      "description": "Inventory and employee management system web application focused on the jewelry industry.",
+      "imageSrc": "/images/jemas.avif",
+      "url": "https://github.com/AlejandroJer/JEMAS"
+    },
+    {
+      "id": "4",
+      "title": "Pick-em Everything",
+      "description": "Pick-em-Everything is a game developed with Pygame where the player must collect objects and avoid obstacles in different levels. The game includes a main menu, configuration options and a credits screen.",
+      "imageSrc": "/images/pe.avif",
+      "url": "https://github.com/JDAA4/Pick-em-Everything-pygame"
+    },
+    {
+      "id": "5",
+      "title": "BuggBlock",
+      "description": "BuggBlock is a personal blog-like platform where users can share their opinions on various technologies. Administrators can manage posts and users",
+      "imageSrc": "/images/bb.avif",
+      "url": "https://github.com/JDAA4/BuggBlock"
+    }
+  ],
+  "services": [],
+  "aboutpara": "I am a 20-year-old Software Engineering student at the University of Colima with a passion for crafting innovative web and mobile applications. I thrive on learning and adapting to emerging technologies, always seeking opportunities to enhance my skills and contribute to meaningful projects. My goal is to create efficient, user-focused solutions while continuously expanding my knowledge in the dynamic field of software development.",
+  "resume": {
+    "tagline": "👋  I'm a software engineer, product designer.",
+    "description": "I have delivered world-class user experiences to millions of people. Well-versed with React, Javascript, and most of the Web frameworks.",
+    "experiences": [
+      {
+        "id": "1",
+        "dates": "March 2022 - Present",
+        "type": "Full Time",
+        "position": "Frontend Engineer at X",
+        "bullets": "Bullet One, Bullet Two"
+      },
+      {
+        "id": "d495c23b-4f65-479a-9b8a-cfbc1c089725",
+        "dates": "July 2020 - March 2022",
+        "type": "Full Time",
+        "position": "Frontend Engineer at X",
+        "bullets": "Worked on the frontend of a React application, Worked on the frontend of a React application"
+      }
+    ],
+    "education": {
+      "universityName": "University X",
+      "universityDate": "2016-2020",
+      "universityPara": "Lorem Ipsum is simply dummy text of the printing and typesetting industry. Lorem Ipsum has been the industry&apos;s standard dummy text ever since the 1500s, when an unknown printer took a galley of type and scrambled it to make a type specimen book"
+    },
+    "languages": ["Javascript", "HTML5", "CSS", "Python", "Go"],
+    "frameworks": ["React", "Typescript", "NodeJs"],
+    "others": ["Figma", "AdobeXD", "AWS"]
+  }
+}
